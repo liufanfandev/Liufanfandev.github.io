@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://liufanfandev.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
+title: liufanfan
+subtitle: "数风流人物，还看今朝。"
 description: "刘一帆的个人博客"
-keywords: Java, JavaScript,Android
+keywords: Java, JavaScript
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -46,9 +46,9 @@ navs:
     href: /links/
     label: 链接
 
-  -
-    href: /about/
-    label: 关于
+#  -
+#   href: /about/
+#   label: 关于
 
 # ---------------- #
 #       RSS        #
