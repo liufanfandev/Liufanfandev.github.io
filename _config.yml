@@ -5,10 +5,10 @@ baseurl:
 url: https://liufanfandev.github.io
 date_format: "ordinal"
 title: liufanfan
-subtitle: "数风流人物，还看今朝。"
+subtitle: "俱往矣，数风流人物，还看今朝。"
 description: "刘一帆的个人博客"
 keywords: Java, JavaScript
-timezone: Asia/Shanghai
+timezone: Asia/Beijing
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
@@ -19,7 +19,7 @@ author: YiFan Liu
 organization: 
 organization_url: 
 github_username: liufanfandev
-location: BeiJing, China
+location: Beijing, China
 email: liufanfandev@163.com
 
 # ---------------- #
@@ -103,7 +103,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: liufanfandev
-    repo: blog-comments
+    repo: liufanfandev.github.io
     clientID: 3b699dbd603d4cb1421c
     clientSecret: 9173e7636a40271db9ed86ab78b7aad5e234200e
 # 在使用其它评论组件时可点击显示 Disqus
